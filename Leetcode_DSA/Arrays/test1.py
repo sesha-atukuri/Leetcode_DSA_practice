@@ -1,0 +1,1 @@
+print("edu CATIVE".capitalize())    
